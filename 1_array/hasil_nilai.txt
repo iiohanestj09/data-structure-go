@@ -1,0 +1,10 @@
+=== REKAP NILAI SISWA ===
+No    Nama       Tgs    UTS    UAS    Akhir      Status         
+1     Putra      90.0   87.0   88.0   88.3       LULUS          
+2     Doni       98.0   89.0   90.0   92.1       LULUS          
+3     Andin      99.0   99.0   99.0   99.0       LULUS          
+
+=== PERINGKAT SISWA ===
+Peringkat 1: Andin      (99.0)
+Peringkat 2: Doni       (92.1)
+Peringkat 3: Putra      (88.3)
