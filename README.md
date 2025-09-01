@@ -5,3 +5,4 @@ Catatan ini saya susun sebagai hasil pembelajaran dan tugas kelompok pada semest
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | [Basic Programming Go](https://github.com/iiohanestj09/basic-programming-go) | [Data Structure C](https://github.com/iiohanestj09/data-structure-c)                          |
 |                                                                              | [Data Structure JavaScript](https://github.com/iiohanestj09/data-structure-javascript)        |
+|                                                                              | [Data Structure Python](https://github.com/iiohanestj09/data-structure-python)                |
